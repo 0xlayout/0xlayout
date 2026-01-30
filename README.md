@@ -10,7 +10,7 @@
   ">
     <div>
       <img 
-        src="https://media.discordapp.net/attachments/1433487811205529600/1452480157490352150/Progress_is_a_Mindset_by_Beauty_Trending.jpg?ex=695fb7cf&is=695e664f&hm=280c132c1b7a5ed883650b39087f502de3a804066a94e0931830e421f2b3cb8f&=&format=webp&width=435&height=544" 
+        src="https://cdn.discordapp.com/attachments/1433487843421851731/1466791049081917644/tumblr_ol64mrSOA41u3bn17o1_540_gif_540540.gif?ex=697e071d&is=697cb59d&hm=76d7dab13f19aa18460a00ab24f0352cd2a233f13a75c9cef8437892594cb9dc&" 
         alt="banner"
         width="300"
         height="900"
